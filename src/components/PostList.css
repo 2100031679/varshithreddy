@@ -1,0 +1,20 @@
+.post-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.post-list div {
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.post-list h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.post-list p {
+    color: #666;
+}

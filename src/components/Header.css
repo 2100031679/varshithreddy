@@ -1,0 +1,20 @@
+header {
+    background: #444;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+nav a {
+    margin: 0 15px;
+    color: #fff;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,30 @@
+/* src/components/EditPost.css */
+.edit-post {
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.edit-post label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+.edit-post input, .edit-post textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
+
+.edit-post button {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.edit-post button:hover {
+    background: #555;
+}

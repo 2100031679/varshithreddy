@@ -1,0 +1,30 @@
+/* src/components/CreatePost.css */
+.create-post {
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.create-post label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+.create-post input, .create-post textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
+
+.create-post button {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.create-post button:hover {
+    background: #555;
+}

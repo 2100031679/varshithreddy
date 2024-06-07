@@ -1,0 +1,8 @@
+.author-info ul {
+    list-style: none;
+    padding: 0;
+}
+
+.author-info ul li {
+    margin-bottom: 5px;
+}
